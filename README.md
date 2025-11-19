@@ -26,7 +26,7 @@ Aplikasi todo list full-stack dengan Go (Gin + GORM) backend dan React (TypeScri
 
 ### 1. Clone & Setup Database
 ```bash
-git clone <repository-url>
+git clone https://github.com/nathwiels26/industrix-todo-app
 cd industrix-todo-app
 
 # Buat database
